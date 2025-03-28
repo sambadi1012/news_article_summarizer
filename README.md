@@ -40,7 +40,7 @@ Follow these steps to set up the project locally:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/news-article-summarizer.git
+git clone https://github.com/sambadi1012/news-article-summarizer.git
 cd news-article-summarizer
 ```
 
